@@ -1,0 +1,123 @@
+html, body{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.uno{ 
+    width: 640px;
+    height: 161px;
+    background-color: rgb(239, 43, 45);
+    display: flex;
+    flex-direction: row;
+}
+
+.dos{
+    width: 640px;
+    height: 104px;
+    background-color: #ffffff;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+
+}
+
+.tres{
+    width: 640px;
+    height: 161px;
+    background-color: rgb(239, 43, 45);
+    display: flex;
+    flex-direction: row;
+
+}
+
+.primero{
+    width: 175px;
+    height: 104px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+}
+
+.segundo{
+    width: 115px;
+    height: 104px;
+    background-color:  rgb(0,40,104);
+    display: flex;
+
+}
+
+.tercero{
+    width: 350px;
+    height: 104px;
+    background-color: rgb(255, 255, 255);
+
+}
+
+.linea1{
+    width: 100%;
+    height: 26px;
+    background-color: rgb(255, 255, 255);
+
+}
+
+.linea2{
+    width: 100%;
+    height: 52px;
+    background-color: rgb(0,40,104);
+}
+
+.linea11{
+    width: 25%;
+    height: 100%1;
+    background-color: rgb(0,40,104);
+
+}
+
+.linea12{
+    width: 50%;
+    height: 100%;
+    background-color: rgb(0,40,104);
+}
+
+.rojo1{
+    width: 175px ;
+    height: 161px;
+    background-color: rgb(239, 43, 45);
+
+}
+
+.rayas{
+    width: 115px;
+    height: 161px;
+    background-color:  #002868;
+    display: flex;
+}
+
+.rojo2{
+    width: 350px ;
+    height: 161px;
+    background-color: rgb(239, 43, 45);
+}
+
+.blanca{
+    width: 25%;
+    height: 161px;
+    background-color: #ffffff;
+
+}
+
+.azul{
+    width: 50%;
+    height: 161px;
+    background-color: #002868;
+}
+
+.lineaxxx{
+    width: 100%;
+    height: 26px;
+    background-color: rgb(255, 255, 255);
+}

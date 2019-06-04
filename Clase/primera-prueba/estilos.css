@@ -1,0 +1,36 @@
+/*
+PROBAR CONEXION ENTRE CSS Y HTML
+*{
+    background: blue;
+}
+
+selector{
+    propiedad:valor;
+    propiedad:valor2;
+}
+*/
+
+h1{
+    color: #4200db;
+    font-size: 65px;
+}
+
+span{
+    color: #ff008c;
+}
+
+h2{
+    color: #a30353
+}
+
+#time{
+    color: #005c0f
+}
+
+.img-big{
+    width: 60%;
+}
+
+.img-small{
+    width: 20%;
+}

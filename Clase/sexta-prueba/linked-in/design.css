@@ -1,0 +1,87 @@
+html, body{
+    height: 100%;
+    width: 100%;
+    background-image: linear-gradient(to top right, #1298b9, #1196d3);
+    
+}
+
+.textoarriba{ 
+    font-size: 20px;
+    color: white;
+}
+
+.arriba{
+    height: 20%;
+    width: 100%;
+}
+
+.medio{
+    height: 60%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+.abajo{
+    height: 25%;
+    width: 100%;
+}
+
+main{
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    
+}
+
+.logo{
+    border-top: 20px;
+    height: 50%;
+
+}
+
+.blanco{
+    height: 100%;
+    width: 30%;
+    background-color: #f1f1f1;
+   
+    
+}
+
+.text{
+    width: 90%;
+    font-size: 14px;
+    display: flex;
+    margin-left: 40px;
+    margin-bottom: -2px;
+    color: #5e5e5e;
+}
+
+.texto{
+    width: 90%;
+    font-size: 13px;
+}
+
+.caja{
+    width: 80%;
+    align-content: center;
+    font-size: 18px;
+}
+
+.bt1 {
+    background-color: #0b6c99;
+    color: rgb(255, 255, 255);
+    border-radius: 5px;
+    font-size: 15px;
+}
+
+input:focus{
+    outline: none;
+    border: 1px solid #4285f4;
+}
+
+.logo{
+    height: 30%;
+}

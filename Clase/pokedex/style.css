@@ -1,0 +1,58 @@
+body{
+    width: 99%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+}
+
+.card{
+    box-shadow: 8px 8px 4px 0px #6f6de6;
+    text-align: center;
+    background: #f0f0f0;
+    height: 350px;
+    width: 250px;
+    margin: 15px;
+    padding: 10px;
+}
+
+img{
+    width: 80%;
+    height: 70%;
+}
+
+#main{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center
+}
+
+h2{
+    font-family: 'Cantora One', sans-serif;
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    padding: 20px;
+    font-weight: bold;
+  
+}
+
+h2.shadow{
+  text-shadow: 8px 8px 4px 0px #6f6de6
+}
+
+h4{
+    font-family: 'Cantora One', sans-serif;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    margin-top: 15px;
+    margin-bottom: 5px
+
+}
+
+h5{
+    font-family: 'Cantora One', sans-serif;
+    color: rgb(0, 0, 0);
+    font-size: 15px;
+}

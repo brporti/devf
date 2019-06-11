@@ -1,0 +1,43 @@
+body{
+    height: 100%;
+    width: 100%;
+}
+
+.ultimo{
+    background-color: rgb(139, 139, 139);
+    border: solid white 10px;
+}
+
+.azul{
+    background-color: blue;
+    border: solid white 10px;
+}
+
+.amarillo{
+    background-color: yellow;
+    border: solid white 10px;
+}
+
+.verde{
+    background-color: green;
+    border: solid white 10px;
+}
+
+.verdeclaro{
+    background-color: rgb(88, 182, 88);
+    border: solid white 10px;
+}
+
+.naranja{
+    background-color: orange;
+    border: solid white 10px;
+}
+
+
+.primero{
+    height: 5rem;
+}
+
+.segundo{
+    height: 5rem;
+}

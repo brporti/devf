@@ -1,6 +1,6 @@
 body{
     height: 100%;
-    width: 100%;
+    width: 98%;
 }
 
 .ultimo{
@@ -35,9 +35,21 @@ body{
 
 
 .primero{
-    height: 5rem;
+    height: 150px;  
 }
 
 .segundo{
-    height: 5rem;
+    height: 150px;  
+}
+
+.tercero{
+    height: 150px;  
+}
+
+.cuarto{
+    height: 150px;  
+}
+
+.ultimo{
+    height: 80px;
 }
